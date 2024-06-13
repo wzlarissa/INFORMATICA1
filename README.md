@@ -82,9 +82,28 @@ A atividade trablaha os seguintes tópicos:
 # (POWER APPS)
 Power Apps feito de acordo com os dados de acidente de trabalho de julho de 2023, dos dados abertos, com mais de 3 modificações. 
 
+Tela Inicial do app: 
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/4267928e-6b5a-4792-b4cb-7ec589ee64dc)
+
+Tela das datas de acidente de trabalho do app: 
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/462d7844-7618-42a2-b490-83b5bd3bd655)
+
+Tela de gêneros de acidentes de trabalho do app: 
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/e684fb5d-9eef-4c64-80ed-85f02726b527)
+
+Tela de óbitos por acidente de trabalho do app:
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/1a7bda33-0577-4b28-8c40-dcdaf36e0bc5)
+
+
 
 # (POWER AUTOMATE)
 Power Automate com mais de 3 modificações. 
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/202776a9-b428-4b54-90ae-482262747523)
 
 
 
