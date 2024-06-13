@@ -21,9 +21,7 @@ Tópicos que foram trabalhados ao decorrer da apresentação:
  6. Sonho: Sucesso profissional, viajar o mundo e adquirir conhecimento.
 
 ![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/872e39a1-b613-401e-a164-d35800ab9003)
- 
-# PLANILHA DE DESPESAS PESSOAIS (EXCEL)
-Planilha e gráficos de despesas pessoais para calcular gastos. 
+
 
 # PLANILHA SETOR EMPRESARIAL (EXCEL)
 Planilha e gráficos no excel sobre as entradas e saídas de uma empresa de sua preferência. 
