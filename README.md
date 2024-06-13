@@ -53,11 +53,38 @@ Planilha com horario de aula dos professores de uma escola de acordo com as nece
 ![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/33dd7019-215d-4761-b4ba-f231163bb9ed) 
 
 # (POWER BI)
+Power BI usando dados de acidentes de trabalho de julho de 2023, dos dados abertos, com mais de três modificações que se conectam.
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/1cff075b-c949-427a-b7d5-b79161869067)
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/0e1efdc7-761d-459b-b9c2-36b06628bfad)
+
+
+A atividade trablaha os seguintes tópicos: 
+ 1. Acidentes de trabalho por região
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/a481d104-6919-47e1-80fe-520693b5b68f)
+
+   
+ 3. UF de acidentes.
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/9cb2825d-e574-4b16-9ddc-1a3a2d310364)
+  
+ 4. Quantidades de acidentes por gênero
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/ee47729a-59d6-4b97-98f7-a0af318aff74)
+
+   
+ 6. Óbitos por acidente de trabalho de acordo com a região. 
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/7448394b-2f66-495c-b14a-3217a1d6c302)
+
 
 # (POWER APPS)
+Power Apps feito de acordo com os dados de acidente de trabalho de julho de 2023, dos dados abertos, com mais de 3 modificações. 
+
 
 # (POWER AUTOMATE)
-
+Power Automate com mais de 3 modificações. 
 
 
 
