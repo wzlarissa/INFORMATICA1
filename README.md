@@ -21,5 +21,19 @@ Tópicos que foram trabalhados ao decorrer da apresentação:
  6. Sonho: Sucesso profissional, viajar o mundo e adquirir conhecimento.
 
 ![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/872e39a1-b613-401e-a164-d35800ab9003)
+ 
+# PLANILHA DE DESPESAS PESSOAIS (EXCEL)
+Planilha e gráficos de despesas pessoais para calcular gastos. 
+
+# PLANILHA SETOR EMPRESARIAL (EXCEL)
+Planilha e gráficos no excel sobre as entradas e saídas de uma empresa de sua preferência. 
+Empresa escolhida: GCAR - Estética Automotiva
+
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/c459a001-8add-4d28-887b-ab8acfc29db9)![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/585480b3-b0cf-4f94-b971-834b9199c3dc) ![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/b7c2ec1b-1eef-4c28-8e26-842fc30c60f4)
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/84675b39-000f-485b-8cc7-74b060860119)
+![image](https://github.com/wzlarissa/INFORMATICA1/assets/162644401/62280d3c-fb58-4ea2-9bc1-0e98a14c57f5)
+
+
+
 
 
